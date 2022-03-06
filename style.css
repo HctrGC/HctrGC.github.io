@@ -1,0 +1,73 @@
+body {
+    background-color: #f7f7ff;
+}
+
+header {
+    border-radius: .3rem;  
+    padding: 50px 30px;
+    margin: 0 auto;
+}
+
+.header-b {
+    background-color: #e54b4b;
+    color: #f7f7ff;
+}
+
+table {
+    padding: 20px 0;
+}
+
+ul {
+    text-align: center;
+    text-decoration: none;
+    list-style: none;
+    color: #e54b4b;
+}
+
+.navbar {
+    background-color: #e54b4b;
+}
+
+.navbar-dark {
+    color: #f7f7ff;
+}
+
+.card {
+    border: 0px;
+    background-color: #f7f7ff;
+}
+
+.card-form {
+    border: 1px solid rgba(0,0,0,0.125);
+    background-color: #f7f7ff;
+}
+
+.card-header {
+    background-color: #e54b4b;
+    color: #f7f7ff;
+}
+
+.pastel {
+    color: rgba(0,0,0,0.6);
+    text-align: center;
+}
+
+.img_p {
+    border-radius: 20px;
+    border-style: solid;
+    border-color: rgba(0,0,0,0.125);
+}
+
+.footer {
+    background-color: #e54b4b;
+    padding: 40px 0 40px 0;
+    color: rgba(247, 247, 255, 0.8);
+}
+
+#formulario {
+    padding: 20px 0 20px 0;
+}
+
+#personalizacion {
+    padding: 20px 0 20px 0;
+}
